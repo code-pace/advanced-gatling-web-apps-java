@@ -1,0 +1,1069 @@
+{
+    "data": [
+        {
+            "empNumber": 18,
+            "lastName": "Nolan",
+            "firstName": "Anthony",
+            "middleName": "",
+            "employeeId": "0070",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 13,
+                "title": "Sales Representative",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 8,
+                "name": "Sales"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 5,
+                    "lastName": "Anderson",
+                    "firstName": "Linda",
+                    "middleName": "Jane"
+                }
+            ]
+        },
+        {
+            "empNumber": 48,
+            "lastName": "Admin614",
+            "firstName": "Automation",
+            "middleName": "",
+            "employeeId": "BPA2814",
+            "terminationId": null,
+            "jobTitle": {
+                "id": null,
+                "title": null,
+                "isDeleted": null
+            },
+            "subunit": {
+                "id": null,
+                "name": null
+            },
+            "empStatus": {
+                "id": null,
+                "name": null
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 60,
+            "lastName": "User625",
+            "firstName": "Automation",
+            "middleName": "",
+            "employeeId": "BP2825",
+            "terminationId": null,
+            "jobTitle": {
+                "id": null,
+                "title": null,
+                "isDeleted": null
+            },
+            "subunit": {
+                "id": null,
+                "name": null
+            },
+            "empStatus": {
+                "id": null,
+                "name": null
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 12,
+            "lastName": "Hope",
+            "firstName": "Cassidy",
+            "middleName": "",
+            "employeeId": "0046",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 10,
+                "title": "IT Manager",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 6,
+                "name": "TechOps"
+            },
+            "empStatus": {
+                "id": 5,
+                "name": "Part-Time Contract"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 2,
+                    "lastName": "Adalwin",
+                    "firstName": "Odis",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 27,
+            "lastName": "Bonaparte",
+            "firstName": "Cecil",
+            "middleName": "",
+            "employeeId": "0204",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 7,
+                "title": "Software Engineer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 4,
+                "name": "Development"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 8,
+                    "lastName": "Grace",
+                    "firstName": "Fiona",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 29,
+            "lastName": "Carter",
+            "firstName": "Charlie",
+            "middleName": "",
+            "employeeId": "0212",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 9,
+                "title": "QA Engineer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 5,
+                "name": "Quality Assurance"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 30,
+            "lastName": "Chuki",
+            "firstName": "Chenzira",
+            "middleName": "",
+            "employeeId": "0217",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 9,
+                "title": "QA Engineer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 5,
+                "name": "Quality Assurance"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 17,
+            "lastName": "Morris",
+            "firstName": "David",
+            "middleName": "",
+            "employeeId": "0066",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 22,
+                "title": "Account Assistant",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 12,
+                "name": "Finance"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 15,
+                    "lastName": "Mathews",
+                    "firstName": "Kevin",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 6,
+            "lastName": "Chase",
+            "firstName": "Dominic",
+            "middleName": "",
+            "employeeId": "0020",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 5,
+                "title": "VP - Client Services",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 2,
+                "name": "Administration"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 4,
+                    "lastName": "Smith",
+                    "firstName": "John",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 32,
+            "lastName": "Ebo",
+            "firstName": "Ehioze",
+            "middleName": "",
+            "employeeId": "0227",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 22,
+                "title": "Account Assistant",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 12,
+                "name": "Finance"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 15,
+                    "lastName": "Mathews",
+                    "firstName": "Kevin",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 8,
+            "lastName": "Grace",
+            "firstName": "Fiona",
+            "middleName": "",
+            "employeeId": "0029",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 6,
+                "title": "Software Architect",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 4,
+                "name": "Development"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 2,
+                    "lastName": "Adalwin",
+                    "firstName": "Odis",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 25,
+            "lastName": "White",
+            "firstName": "Garry",
+            "middleName": "",
+            "employeeId": "0099",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 24,
+                "title": "HR Associate",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 13,
+                "name": "Human Resources"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 7,
+                    "lastName": "Collings",
+                    "firstName": "Paul",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 34,
+            "lastName": "Ganesh",
+            "firstName": "Goutam",
+            "middleName": "",
+            "employeeId": "0235",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 13,
+                "title": "Sales Representative",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 8,
+                "name": "Sales"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 5,
+                    "lastName": "Anderson",
+                    "firstName": "Linda",
+                    "middleName": "Jane"
+                }
+            ]
+        },
+        {
+            "empNumber": 24,
+            "lastName": "White",
+            "firstName": "Jacqueline",
+            "middleName": "",
+            "employeeId": "0095",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 19,
+                "title": "Support Specialist",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 11,
+                "name": "Technical Support"
+            },
+            "empStatus": {
+                "id": 2,
+                "name": "Full-Time Contract"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 6,
+                    "lastName": "Chase",
+                    "firstName": "Dominic",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 36,
+            "lastName": "Jackie",
+            "firstName": "Jadine",
+            "middleName": "",
+            "employeeId": "0243",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 24,
+                "title": "HR Associate",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 13,
+                "name": "Human Resources"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 7,
+                    "lastName": "Collings",
+                    "firstName": "Paul",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 16,
+            "lastName": "Morgan",
+            "firstName": "Jasmine",
+            "middleName": "",
+            "employeeId": "0062",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 21,
+                "title": "Financial Analyst",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 12,
+                "name": "Finance"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 15,
+                    "lastName": "Mathews",
+                    "firstName": "Kevin",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 21,
+            "lastName": "Root",
+            "firstName": "Joe",
+            "middleName": "",
+            "employeeId": "0083",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 16,
+                "title": "Content Specialist",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 9,
+                "name": "Marketing"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 20,
+                    "lastName": "Peiris",
+                    "firstName": "Melan",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 4,
+            "lastName": "Smith",
+            "firstName": "John",
+            "middleName": "",
+            "employeeId": "0011",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 1,
+                "title": "Chief Executive Officer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 2,
+                "name": "Administration"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 49,
+            "lastName": "Wick",
+            "firstName": "John",
+            "middleName": "",
+            "employeeId": "0257",
+            "terminationId": null,
+            "jobTitle": {
+                "id": null,
+                "title": null,
+                "isDeleted": null
+            },
+            "subunit": {
+                "id": null,
+                "name": null
+            },
+            "empStatus": {
+                "id": null,
+                "name": null
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 61,
+            "lastName": "Wick",
+            "firstName": "John",
+            "middleName": "",
+            "employeeId": "0270",
+            "terminationId": null,
+            "jobTitle": {
+                "id": null,
+                "title": null,
+                "isDeleted": null
+            },
+            "subunit": {
+                "id": null,
+                "name": null
+            },
+            "empStatus": {
+                "id": null,
+                "name": null
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 14,
+            "lastName": "Mathews",
+            "firstName": "Jordan",
+            "middleName": "",
+            "employeeId": "0054",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 12,
+                "title": "Database Administrator",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 6,
+                "name": "TechOps"
+            },
+            "empStatus": {
+                "id": 2,
+                "name": "Full-Time Contract"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 12,
+                    "lastName": "Hope",
+                    "firstName": "Cassidy",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 15,
+            "lastName": "Mathews",
+            "firstName": "Kevin",
+            "middleName": "",
+            "employeeId": "0058",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 20,
+                "title": "Finance Manager",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 12,
+                "name": "Finance"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 3,
+                    "lastName": "Anderson",
+                    "firstName": "Peter",
+                    "middleName": "Mac"
+                }
+            ]
+        },
+        {
+            "empNumber": 35,
+            "lastName": "Hu",
+            "firstName": "Kiyara",
+            "middleName": "",
+            "employeeId": "0239",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 24,
+                "title": "HR Associate",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 13,
+                "name": "Human Resources"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 7,
+                    "lastName": "Collings",
+                    "firstName": "Paul",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 5,
+            "lastName": "Anderson",
+            "firstName": "Linda",
+            "middleName": "Jane",
+            "employeeId": "0016",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 4,
+                "title": "VP - Sales & Marketing",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 2,
+                "name": "Administration"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 4,
+                    "lastName": "Smith",
+                    "firstName": "John",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 28,
+            "lastName": "Andrews",
+            "firstName": "Lisa",
+            "middleName": "",
+            "employeeId": "0208",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 7,
+                "title": "Software Engineer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 4,
+                "name": "Development"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 8,
+                    "lastName": "Grace",
+                    "firstName": "Fiona",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 23,
+            "lastName": "Wright",
+            "firstName": "Luke",
+            "middleName": "",
+            "employeeId": "0091",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 18,
+                "title": "Head of Support",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 11,
+                "name": "Technical Support"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 6,
+                    "lastName": "Chase",
+                    "firstName": "Dominic",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 13,
+            "lastName": "Manning",
+            "firstName": "Maggie",
+            "middleName": "",
+            "employeeId": "0050",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 11,
+                "title": "Network Administrator",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 6,
+                "name": "TechOps"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 12,
+                    "lastName": "Hope",
+                    "firstName": "Cassidy",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 20,
+            "lastName": "Peiris",
+            "firstName": "Melan",
+            "middleName": "",
+            "employeeId": "0078",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 15,
+                "title": "Social Media Marketer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 9,
+                "name": "Marketing"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 5,
+                    "lastName": "Anderson",
+                    "firstName": "Linda",
+                    "middleName": "Jane"
+                }
+            ]
+        },
+        {
+            "empNumber": 33,
+            "lastName": "Elliot",
+            "firstName": "Nathan",
+            "middleName": "",
+            "employeeId": "0231",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 13,
+                "title": "Sales Representative",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 8,
+                "name": "Sales"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 5,
+                    "lastName": "Anderson",
+                    "firstName": "Linda",
+                    "middleName": "Jane"
+                }
+            ]
+        },
+        {
+            "empNumber": 19,
+            "lastName": "Patel",
+            "firstName": "Nina",
+            "middleName": "",
+            "employeeId": "0074",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 14,
+                "title": "Pre-Sales Coordinator",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 8,
+                "name": "Sales"
+            },
+            "empStatus": {
+                "id": 2,
+                "name": "Full-Time Contract"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 18,
+                    "lastName": "Nolan",
+                    "firstName": "Anthony",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 2,
+            "lastName": "Adalwin",
+            "firstName": "Odis",
+            "middleName": "",
+            "employeeId": "0002",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 3,
+                "title": "Chief Technical Officer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 2,
+                "name": "Administration"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 4,
+                    "lastName": "Smith",
+                    "firstName": "John",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 1,
+            "lastName": "Test",
+            "firstName": "Orange",
+            "middleName": "",
+            "employeeId": "0001",
+            "terminationId": null,
+            "jobTitle": {
+                "id": null,
+                "title": null,
+                "isDeleted": null
+            },
+            "subunit": {
+                "id": null,
+                "name": null
+            },
+            "empStatus": {
+                "id": null,
+                "name": null
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 7,
+            "lastName": "Collings",
+            "firstName": "Paul",
+            "middleName": "",
+            "employeeId": "0024",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 23,
+                "title": "HR Manager",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 13,
+                "name": "Human Resources"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 4,
+                    "lastName": "Smith",
+                    "firstName": "John",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 3,
+            "lastName": "Anderson",
+            "firstName": "Peter",
+            "middleName": "Mac",
+            "employeeId": "0007",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 2,
+                "title": "Chief Financial Officer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 2,
+                "name": "Administration"
+            },
+            "empStatus": {
+                "id": 4,
+                "name": "Full-Time Probation"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 4,
+                    "lastName": "Smith",
+                    "firstName": "John",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 11,
+            "lastName": "Harmony",
+            "firstName": "Rebecca",
+            "middleName": "",
+            "employeeId": "0042",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 9,
+                "title": "QA Engineer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 5,
+                "name": "Quality Assurance"
+            },
+            "empStatus": {
+                "id": 2,
+                "name": "Full-Time Contract"
+            },
+            "supervisors": []
+        },
+        {
+            "empNumber": 9,
+            "lastName": "Hamilton",
+            "firstName": "Russel",
+            "middleName": "",
+            "employeeId": "0034",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 7,
+                "title": "Software Engineer",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 4,
+                "name": "Development"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 8,
+                    "lastName": "Grace",
+                    "firstName": "Fiona",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 22,
+            "lastName": "Shaheen",
+            "firstName": "Sania",
+            "middleName": "",
+            "employeeId": "0087",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 17,
+                "title": "Customer Success Manager",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 11,
+                "name": "Technical Support"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 6,
+                    "lastName": "Chase",
+                    "firstName": "Dominic",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 26,
+            "lastName": "Tencrady",
+            "firstName": "Sara",
+            "middleName": "",
+            "employeeId": "0103",
+            "terminationId": null,
+            "jobTitle": {
+                "id": 25,
+                "title": "Payroll Administrator",
+                "isDeleted": false
+            },
+            "subunit": {
+                "id": 13,
+                "name": "Human Resources"
+            },
+            "empStatus": {
+                "id": 3,
+                "name": "Full-Time Permanent"
+            },
+            "supervisors": [
+                {
+                    "empNumber": 7,
+                    "lastName": "Collings",
+                    "firstName": "Paul",
+                    "middleName": ""
+                }
+            ]
+        },
+        {
+            "empNumber": 39,
+            "lastName": "Kohli",
+            "firstName": "Virat",
+            "middleName": "",
+            "employeeId": "0249",
+            "terminationId": null,
+            "jobTitle": {
+                "id": null,
+                "title": null,
+                "isDeleted": null
+            },
+            "subunit": {
+                "id": null,
+                "name": null
+            },
+            "empStatus": {
+                "id": null,
+                "name": null
+            },
+            "supervisors": []
+        }
+    ],
+    "meta": {
+        "total": 39
+    },
+    "rels": []
+}

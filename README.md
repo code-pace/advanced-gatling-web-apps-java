@@ -1,4 +1,11 @@
 Advanced Gatling for Stress Testing Web Applications - Java Edition
 ============================================
 
-Source code to support the Advanced Gatling for Stress Testing Web Applications - Java Edition course on Udemy
+James Willet - Java Edition course on Udemy
+
+Web Application - OrangeHrm
+
+**Functionalities Covered**
+- Employee Login
+- Navigate to View Leave Module
+- Employee's Leave Request
